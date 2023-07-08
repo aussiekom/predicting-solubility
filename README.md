@@ -1,1 +1,1 @@
-# predicting-solubility
+# Predicting Solubility. Cheminformatics
