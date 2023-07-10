@@ -36,5 +36,5 @@ Download and unzip contents
 ###  Launch the app
 
 ```
-streamlit run app.py
+streamlit run solubility-app.py
 ```
