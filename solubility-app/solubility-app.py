@@ -68,9 +68,10 @@ st.image(image, use_column_width=True)
 st.write("""
 # Molecular Solubility Prediction Web App
 
-This app predicts the **Solubility (LogS)** values of molecules!
+- This app predicts the **Solubility (LogS)** values of molecules!
 
-Data obtained from the John S. Delaney. [ESOL:  Estimating Aqueous Solubility Directly from Molecular Structure](https://pubs.acs.org/doi/10.1021/ci034243x). ***J. Chem. Inf. Comput. Sci.*** 2004, 44, 3, 1000-1005.
+- Data obtained from the John S. Delaney. [ESOL:  Estimating Aqueous Solubility Directly from Molecular Structure](https://pubs.acs.org/doi/10.1021/ci034243x). ***J. Chem. Inf. Comput. Sci.*** 2004, 44, 3, 1000-1005.
+- App built in `Python` + `Streamlit` by Evgeniia Komarova [LinkedIn](https://www.linkedin.com/in/evgeniia-komarova-523139235/) [GitHub](https://github.com/aussiekom)
 ***
 """)
 
